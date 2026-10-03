@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of shebaoting/ai-assistant.** Not for installation: use [Packagist](https://packagist.org/packages/shebaoting/ai-assistant) or the [upstream repository](https://github.com/shebaoting/ai-assistant).
 
-**0** versions archived · Latest: [`v0.4.0`](https://github.com/flarchive/shebaoting-ai-assistant/tree/archive/v0.4.0) · License: `MIT` · Flarum: `^1.8.0`
+**3** versions archived · Latest: [`v0.4.0`](https://github.com/flarchive/shebaoting-ai-assistant/tree/archive/v0.4.0) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2024-09-20 | `^1.2.0` | [Browse](https://github.com/flarchive/shebaoting-ai-assistant/tree/archive/v0.1.0) |
+| `v0.2.0` | 2025-05-09 | `^1.8.0` | [Browse](https://github.com/flarchive/shebaoting-ai-assistant/tree/archive/v0.2.0) |
+| `v0.4.0` | 2025-05-09 | `^1.8.0` | [Browse](https://github.com/flarchive/shebaoting-ai-assistant/tree/archive/v0.4.0) |
 
 Catalog entry: [packages/shebaoting-ai-assistant.json](https://github.com/flarchive/archive-index/blob/main/packages/shebaoting-ai-assistant.json)
 
